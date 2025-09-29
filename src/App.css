@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Modern Wallet Connection Styles */
 .wallet-header {
   position: fixed;
-  top: 20px;
+  bottom: 20px;
   right: 20px;
   z-index: 1000;
   display: flex;
